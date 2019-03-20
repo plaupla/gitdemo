@@ -1,1 +1,3 @@
-A folder for a new file
+First line
+Second line
+
